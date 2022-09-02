@@ -1,0 +1,8 @@
+C:\Users\PC-D-022\Documents\Visual Studio 2010\Projects\simple_calculator\simple_calculator\bin\Debug\simple_calculator.exe
+C:\Users\PC-D-022\Documents\Visual Studio 2010\Projects\simple_calculator\simple_calculator\bin\Debug\simple_calculator.pdb
+C:\Users\PC-D-022\Documents\Visual Studio 2010\Projects\simple_calculator\simple_calculator\obj\x86\Debug\simple_calculator.Form1.resources
+C:\Users\PC-D-022\Documents\Visual Studio 2010\Projects\simple_calculator\simple_calculator\obj\x86\Debug\simple_calculator.Properties.Resources.resources
+C:\Users\PC-D-022\Documents\Visual Studio 2010\Projects\simple_calculator\simple_calculator\obj\x86\Debug\simple_calculator.csproj.GenerateResource.Cache
+C:\Users\PC-D-022\Documents\Visual Studio 2010\Projects\simple_calculator\simple_calculator\obj\x86\Debug\simple_calculator.exe
+C:\Users\PC-D-022\Documents\Visual Studio 2010\Projects\simple_calculator\simple_calculator\obj\x86\Debug\simple_calculator.pdb
+C:\Users\PC-D-022\Documents\Visual Studio 2010\Projects\simple_calculator\simple_calculator\obj\x86\Debug\simple_calculator.csprojResolveAssemblyReference.cache
